@@ -54,8 +54,6 @@ public class LoginService implements Autenticavel {
 }
 ```
 
----
-
 ### 🔹 `TelaLogin.java`
 
 Tela construída em Swing, onde o usuário insere usuário e senha.
